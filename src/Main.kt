@@ -1,5 +1,5 @@
-fun jayesh(){
-    println("Hello java")
+fun helloWorld(){
+    println("This is my first ever kotlin program")
 }
 
-jayesh()
+helloWorld()
